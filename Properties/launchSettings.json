@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AppConsoleLogicaProg": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

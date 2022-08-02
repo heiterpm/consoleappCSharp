@@ -1,0 +1,15 @@
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\bin\Release\net6.0\AppConsoleLogicaProg.exe
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\bin\Release\net6.0\AppConsoleLogicaProg.deps.json
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\bin\Release\net6.0\AppConsoleLogicaProg.runtimeconfig.json
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\bin\Release\net6.0\AppConsoleLogicaProg.dll
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\bin\Release\net6.0\AppConsoleLogicaProg.pdb
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\obj\Release\net6.0\AppConsoleLogicaProg.csproj.AssemblyReference.cache
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\obj\Release\net6.0\AppConsoleLogicaProg.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\obj\Release\net6.0\AppConsoleLogicaProg.AssemblyInfoInputs.cache
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\obj\Release\net6.0\AppConsoleLogicaProg.AssemblyInfo.cs
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\obj\Release\net6.0\AppConsoleLogicaProg.csproj.CoreCompileInputs.cache
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\obj\Release\net6.0\AppConsoleLogicaProg.dll
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\obj\Release\net6.0\refint\AppConsoleLogicaProg.dll
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\obj\Release\net6.0\AppConsoleLogicaProg.pdb
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\obj\Release\net6.0\AppConsoleLogicaProg.genruntimeconfig.cache
+D:\dev\Projetowebcsharp\AppConsoleLogicaProg\AppConsoleLogicaProg\obj\Release\net6.0\ref\AppConsoleLogicaProg.dll

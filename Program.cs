@@ -35,7 +35,7 @@ void Continuar()
 }
 
 
-Console.WriteLine("Olá bem vindo a padaria LDP!! O que deseja?");
+Console.WriteLine("Olá bem vindo a padaria LDP! O que deseja?");
 while (progLigado) { 
 Console.WriteLine("1 - Doce1");
 Console.WriteLine("2 - Doce2");
